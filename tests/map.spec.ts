@@ -66,10 +66,48 @@ test('copy button in popup works', async ({ page }) => {
   const copyButton = await page.locator('button.copy').first();
   await expect(copyButton).toBeVisible();
   
+  // Verify Tailwind classes are applied (simplified check)
+  const classes = await copyButton.getAttribute('class');
+  expect(classes).toContain('bg-gray-100');
+  expect(classes).toContain('transition-colors');
+  
   // Playwright can't directly check the clipboard contents easily,
   // but we can check if it triggers the copy event.
   // For now, we just ensure the button is clickable.
   await copyButton.click();
+});
+
+test('opening glightbox works', async ({ page }) => {
+  await page.waitForSelector('.leaflet-marker-icon');
+  
+  // Center map on a known marker with an image
+  await page.evaluate(() => {
+    // @ts-ignore
+    const map = window.map;
+    if (map) {
+      map.setView([-1171.5, 3826], 4);
+    }
+  });
+  
+  await page.waitForTimeout(500);
+  
+  const firstMarker = await page.locator('.leaflet-marker-icon').first();
+  await firstMarker.click({ force: true });
+  
+  // Find the GLightbox link in the popup
+  const lightboxLink = await page.locator('a.glightbox').first();
+  await expect(lightboxLink).toBeVisible();
+  
+  // Click to open
+  await lightboxLink.click();
+  
+  // GLightbox adds a container to the body when opened
+  const glightboxContainer = await page.locator('.glightbox-container');
+  await expect(glightboxContainer).toBeVisible();
+  
+  // Check if image is loaded (optional but good)
+  const image = await glightboxContainer.locator('img').first();
+  await expect(image).toBeVisible();
 });
 
 test('URL hash updates when moving the map', async ({ page }) => {

@@ -7,7 +7,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/4797cc9dfe41a8c7808e0e5fd8a795c4.png",
     "lightbox_group": "image-1",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Inside Los Santos Customs</h3><p><a href='https://content.rockstarnews.ru/up/images/4797cc9dfe41a8c7808e0e5fd8a795c4.png' data-lightbox='image-1' data-title='Inside Los Santos Customs'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div></p>"
+    "popupHtml": "<h2>Inside Los Santos Customs</h3><p><a href='https://content.rockstarnews.ru/up/images/4797cc9dfe41a8c7808e0e5fd8a795c4.png' class='glightbox' data-gallery='image-1' data-title='Inside Los Santos Customs'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div></p>"
   },
   {
     "lat": -1431,
@@ -17,7 +17,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/4f61e86d6cec09cb930c918958dc4aa9.png",
     "lightbox_group": "image-2",
     "copy_url": "https://gtavmap.rockstarhub.ru/#4/-1480.50/3703.00",
-    "popupHtml": "<h2>ATM in front of Tattoo Parlor</h2><p><a href='https://content.rockstarnews.ru/up/images/4f61e86d6cec09cb930c918958dc4aa9.png' data-lightbox='image-2' data-title='ATM in front of Tattoo Parlor'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#4/-1480.50/3703.00'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>ATM in front of Tattoo Parlor</h2><p><a href='https://content.rockstarnews.ru/up/images/4f61e86d6cec09cb930c918958dc4aa9.png' class='glightbox' data-gallery='image-2' data-title='ATM in front of Tattoo Parlor'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#4/-1480.50/3703.00'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -1851,
@@ -27,7 +27,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/b653775d1b243ce144d3f63ae8947b0e.png",
     "lightbox_group": "image-3",
     "copy_url": "https://gtavmap.rockstarhub.ru/#4/-1866.50/3376.00",
-    "popupHtml": "<h2>Bottom cable car station</h2><p><a href='https://content.rockstarnews.ru/up/images/b653775d1b243ce144d3f63ae8947b0e.png' data-lightbox='image-3' data-title='Bottom cable car station'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#4/-1866.50/3376.00'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Bottom cable car station</h2><p><a href='https://content.rockstarnews.ru/up/images/b653775d1b243ce144d3f63ae8947b0e.png' class='glightbox' data-gallery='image-3' data-title='Bottom cable car station'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#4/-1866.50/3376.00'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2104,
@@ -37,7 +37,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/7854e651af678840be1572318c4929ad.jpg",
     "lightbox_group": "image-4",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-2129.750/2752.000",
-    "popupHtml": "<h2>Paleto Cove (Dock)</h2><p><a href='https://content.rockstarnews.ru/up/images/7854e651af678840be1572318c4929ad.jpg' data-lightbox='image-4' data-title='Paleto Cove (Dock)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-2129.750/2752.000'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Paleto Cove (Dock)</h2><p><a href='https://content.rockstarnews.ru/up/images/7854e651af678840be1572318c4929ad.jpg' class='glightbox' data-gallery='image-4' data-title='Paleto Cove (Dock)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-2129.750/2752.000'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -1310.5,
@@ -47,7 +47,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/04d1cfb4d2afbdc2d9f7decf9ec5fadc.png",
     "lightbox_group": "image-5",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Senora Freeway (Most Northern Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/04d1cfb4d2afbdc2d9f7decf9ec5fadc.png' data-lightbox='image-5' data-title='Senora Freeway (Most Northern Convenience Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Senora Freeway (Most Northern Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/04d1cfb4d2afbdc2d9f7decf9ec5fadc.png' class='glightbox' data-gallery='image-5' data-title='Senora Freeway (Most Northern Convenience Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2030.5,
@@ -57,7 +57,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d443cf984f9d2eb8b3082ee390ecd1c6.jpg",
     "lightbox_group": "image-6",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Mount Gordo (Dirt trail up Mt Gordo)</h2><p><a href='https://content.rockstarnews.ru/up/images/d443cf984f9d2eb8b3082ee390ecd1c6.jpg' data-lightbox='image-6' data-title='Mount Gordo (Dirt trail up Mt Gordo)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Mount Gordo (Dirt trail up Mt Gordo)</h2><p><a href='https://content.rockstarnews.ru/up/images/d443cf984f9d2eb8b3082ee390ecd1c6.jpg' class='glightbox' data-gallery='image-6' data-title='Mount Gordo (Dirt trail up Mt Gordo)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2291,
@@ -67,7 +67,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/fd60cf0449ffc6bbb73f5ccec3deb18d.jpg",
     "lightbox_group": "image-7",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Grapeseed (Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/fd60cf0449ffc6bbb73f5ccec3deb18d.jpg' data-lightbox='image-7' data-title='Grapeseed (Convenience Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Grapeseed (Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/fd60cf0449ffc6bbb73f5ccec3deb18d.jpg' class='glightbox' data-gallery='image-7' data-title='Grapeseed (Convenience Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2384.5,
@@ -77,7 +77,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/2995a36d5c48db5f23c942f9952569bb.jpg",
     "lightbox_group": "image-8",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>McKenzie Field</h2><p><a href='https://content.rockstarnews.ru/up/images/2995a36d5c48db5f23c942f9952569bb.jpg' data-lightbox='image-8' data-title='McKenzie Field'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>McKenzie Field</h2><p><a href='https://content.rockstarnews.ru/up/images/2995a36d5c48db5f23c942f9952569bb.jpg' class='glightbox' data-gallery='image-8' data-title='McKenzie Field'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2688,
@@ -87,7 +87,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/e7a80148ef1f5413ff1be162a1a4566f.png",
     "lightbox_group": "image-9",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Grapeseed (Next to road connecting Grapeseed and Sandy Shores)</h2><p><a href='https://content.rockstarnews.ru/up/images/e7a80148ef1f5413ff1be162a1a4566f.png' data-lightbox='image-9' data-title='Grapeseed (Next to road connecting Grapeseed and Sandy Shores)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Grapeseed (Next to road connecting Grapeseed and Sandy Shores)</h2><p><a href='https://content.rockstarnews.ru/up/images/e7a80148ef1f5413ff1be162a1a4566f.png' class='glightbox' data-gallery='image-9' data-title='Grapeseed (Next to road connecting Grapeseed and Sandy Shores)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2523,
@@ -97,7 +97,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/7f0c7b78004ecb8e087d4864ea5bbd39.jpg",
     "lightbox_group": "image-10",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>San Chianski Mt. Range (Houses at Cape Catfish)</h2><p><a href='https://content.rockstarnews.ru/up/images/7f0c7b78004ecb8e087d4864ea5bbd39.jpg' data-lightbox='image-10' data-title='San Chianski Mt. Range (Houses at Cape Catfish)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>San Chianski Mt. Range (Houses at Cape Catfish)</h2><p><a href='https://content.rockstarnews.ru/up/images/7f0c7b78004ecb8e087d4864ea5bbd39.jpg' class='glightbox' data-gallery='image-10' data-title='San Chianski Mt. Range (Houses at Cape Catfish)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2770,
@@ -107,7 +107,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/622bda9140eed9cce97932100670d268.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Alamo Sea (Pier)</h2><p><a href='https://content.rockstarnews.ru/up/images/622bda9140eed9cce97932100670d268.jpg' data-lightbox='image-11' data-title='Alamo Sea (Pier)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Alamo Sea (Pier)</h2><p><a href='https://content.rockstarnews.ru/up/images/622bda9140eed9cce97932100670d268.jpg' class='glightbox' data-gallery='image-11' data-title='Alamo Sea (Pier)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -2773,
@@ -117,7 +117,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/95500c59962e3784ac0ebe79cfee0e9c.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Raton Canyon (Lookout Post)</h2><p><a href='https://content.rockstarnews.ru/up/images/95500c59962e3784ac0ebe79cfee0e9c.jpg' data-lightbox='image-11' data-title='Raton Canyon (Lookout Post)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Raton Canyon (Lookout Post)</h2><p><a href='https://content.rockstarnews.ru/up/images/95500c59962e3784ac0ebe79cfee0e9c.jpg' class='glightbox' data-gallery='image-11' data-title='Raton Canyon (Lookout Post)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3088.25,
@@ -127,7 +127,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d370acd7a95f61953c65ab7c5f88e1bc.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Stab City (Lost Hangout)</h2><p><a href='https://content.rockstarnews.ru/up/images/d370acd7a95f61953c65ab7c5f88e1bc.jpg' data-lightbox='image-11' data-title='Stab City (Lost Hangout)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Stab City (Lost Hangout)</h2><p><a href='https://content.rockstarnews.ru/up/images/d370acd7a95f61953c65ab7c5f88e1bc.jpg' class='glightbox' data-gallery='image-11' data-title='Stab City (Lost Hangout)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3176,
@@ -137,7 +137,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/7e9ba3967c403c7b2a4fbcdcaf5f20da.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Grand Senora Desert (On the side of a road)</h2><p><a href='https://content.rockstarnews.ru/up/images/7e9ba3967c403c7b2a4fbcdcaf5f20da.jpg' data-lightbox='image-11' data-title='Grand Senora Desert (On the side of a road)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Grand Senora Desert (On the side of a road)</h2><p><a href='https://content.rockstarnews.ru/up/images/7e9ba3967c403c7b2a4fbcdcaf5f20da.jpg' class='glightbox' data-gallery='image-11' data-title='Grand Senora Desert (On the side of a road)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3165.75,
@@ -147,7 +147,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/432f08f0adae6a04e1b27a267726872b.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Sandy Shores Fire Station</h2><p><a href='https://content.rockstarnews.ru/up/images/432f08f0adae6a04e1b27a267726872b.jpg' data-lightbox='image-11' data-title='Sandy Shores Fire Station'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Sandy Shores Fire Station</h2><p><a href='https://content.rockstarnews.ru/up/images/432f08f0adae6a04e1b27a267726872b.jpg' class='glightbox' data-gallery='image-11' data-title='Sandy Shores Fire Station'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3249.5,
@@ -157,7 +157,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/f03d8317660986ab01b4cfc59e03f872.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Senora Freeway (YouTool hardware store)</h2><p><a href='https://content.rockstarnews.ru/up/images/f03d8317660986ab01b4cfc59e03f872.png' data-lightbox='image-11' data-title='Senora Freeway (YouTool hardware store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Senora Freeway (YouTool hardware store)</h2><p><a href='https://content.rockstarnews.ru/up/images/f03d8317660986ab01b4cfc59e03f872.png' class='glightbox' data-gallery='image-11' data-title='Senora Freeway (YouTool hardware store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3524.5,
@@ -167,7 +167,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/4cefa6c429608d139827d9671b1a3cfc.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Yellow Jack Bar</h2><p><a href='https://content.rockstarnews.ru/up/images/4cefa6c429608d139827d9671b1a3cfc.jpg' data-lightbox='image-11' data-title='Yellow Jack Bar'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Yellow Jack Bar</h2><p><a href='https://content.rockstarnews.ru/up/images/4cefa6c429608d139827d9671b1a3cfc.jpg' class='glightbox' data-gallery='image-11' data-title='Yellow Jack Bar'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3839,
@@ -177,7 +177,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/c321c16b535ba788525acdc91770f705.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Grand Senora Desert Trailer Park</h2><p><a href='https://content.rockstarnews.ru/up/images/c321c16b535ba788525acdc91770f705.jpg' data-lightbox='image-11' data-title='Grand Senora Desert Trailer Park'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Grand Senora Desert Trailer Park</h2><p><a href='https://content.rockstarnews.ru/up/images/c321c16b535ba788525acdc91770f705.jpg' class='glightbox' data-gallery='image-11' data-title='Grand Senora Desert Trailer Park'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3871.25,
@@ -187,7 +187,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/6f9d9a486e004a27d7120efa2a4202e3.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Grand Senora Desert (Rebel Radio station)</h2><p><a href='https://content.rockstarnews.ru/up/images/6f9d9a486e004a27d7120efa2a4202e3.png' data-lightbox='image-11' data-title='Grand Senora Desert (Rebel Radio station)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Grand Senora Desert (Rebel Radio station)</h2><p><a href='https://content.rockstarnews.ru/up/images/6f9d9a486e004a27d7120efa2a4202e3.png' class='glightbox' data-gallery='image-11' data-title='Grand Senora Desert (Rebel Radio station)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3500,
@@ -197,7 +197,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/9fcfe06ba99dfc79fb60b7fe9832299d.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Grand Senora Desert (Near house by Industrial Plant)</h2><p><a href='https://content.rockstarnews.ru/up/images/9fcfe06ba99dfc79fb60b7fe9832299d.png' data-lightbox='image-11' data-title='Grand Senora Desert (Near house by Industrial Plant)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Grand Senora Desert (Near house by Industrial Plant)</h2><p><a href='https://content.rockstarnews.ru/up/images/9fcfe06ba99dfc79fb60b7fe9832299d.png' class='glightbox' data-gallery='image-11' data-title='Grand Senora Desert (Near house by Industrial Plant)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3862,
@@ -207,7 +207,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/c6bdd775892ac79bcc9ce1538214d34b.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Great Chaparral (House south of the Route 68 Church)</h2><p><a href='https://content.rockstarnews.ru/up/images/c6bdd775892ac79bcc9ce1538214d34b.png' data-lightbox='image-11' data-title='Great Chaparral (House south of the Route 68 Church)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Great Chaparral (House south of the Route 68 Church)</h2><p><a href='https://content.rockstarnews.ru/up/images/c6bdd775892ac79bcc9ce1538214d34b.png' class='glightbox' data-gallery='image-11' data-title='Great Chaparral (House south of the Route 68 Church)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3744,
@@ -217,7 +217,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d5d9c83e1d64ca67ee5f4ec05dbeb138.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Zancudo (Discount Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/d5d9c83e1d64ca67ee5f4ec05dbeb138.jpg' data-lightbox='image-11' data-title='Zancudo (Discount Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Zancudo (Discount Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/d5d9c83e1d64ca67ee5f4ec05dbeb138.jpg' class='glightbox' data-gallery='image-11' data-title='Zancudo (Discount Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -3298.5,
@@ -227,7 +227,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d544693b1a5c508a295af5a263d4b5c3.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Zancudo (Zancudo Millitary Base)</h2><p><a href='https://content.rockstarnews.ru/up/images/d544693b1a5c508a295af5a263d4b5c3.jpg' data-lightbox='image-11' data-title='Zancudo (Zancudo Millitary Base)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Zancudo (Zancudo Millitary Base)</h2><p><a href='https://content.rockstarnews.ru/up/images/d544693b1a5c508a295af5a263d4b5c3.jpg' class='glightbox' data-gallery='image-11' data-title='Zancudo (Zancudo Millitary Base)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -4799.5,
@@ -237,7 +237,7 @@
     "image_url": "",
     "lightbox_group": "",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Chumash (Nelson's General Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/b27cc83a95325231390fff74eb8b32b5.png' data-lightbox='image-11' data-title='Chumash (Nelson's General Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Chumash (Nelson's General Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/b27cc83a95325231390fff74eb8b32b5.png' class='glightbox' data-gallery='image-11' data-title='Chumash (Nelson's General Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5143,
@@ -247,7 +247,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/a4076ea008b266bc2151962ffbab7dd3.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Banham Canyon (In the 2nd Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/a4076ea008b266bc2151962ffbab7dd3.png' data-lightbox='image-11' data-title='Banham Canyon (In the 2nd Convenience Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Banham Canyon (In the 2nd Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/a4076ea008b266bc2151962ffbab7dd3.png' class='glightbox' data-gallery='image-11' data-title='Banham Canyon (In the 2nd Convenience Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5004.5,
@@ -257,7 +257,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/e98d5cc21a30d2aa25da2939c89dfb1e.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Richmen Glen (Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/e98d5cc21a30d2aa25da2939c89dfb1e.jpg' data-lightbox='image-11' data-title='Richmen Glen (Convenience Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Richmen Glen (Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/e98d5cc21a30d2aa25da2939c89dfb1e.jpg' class='glightbox' data-gallery='image-11' data-title='Richmen Glen (Convenience Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -4730,
@@ -267,7 +267,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/103a7e20345e35b058ececbc55a1dd03.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Vinewood Hills (Observatory)</h2><p><a href='https://content.rockstarnews.ru/up/images/103a7e20345e35b058ececbc55a1dd03.png' data-lightbox='image-11' data-title='Vinewood Hills (Observatory)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Vinewood Hills (Observatory)</h2><p><a href='https://content.rockstarnews.ru/up/images/103a7e20345e35b058ececbc55a1dd03.png' class='glightbox' data-gallery='image-11' data-title='Vinewood Hills (Observatory)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -4783.75,
@@ -277,7 +277,7 @@
     "image_url": "",
     "lightbox_group": "",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Vinewood Hills (Madrazo's Ranch)</h2><p><a href='https://content.rockstarnews.ru/up/images/05217a8f50e6305d692cff973d9fbb93.jpg' data-lightbox='image-11' data-title='Vinewood Hills (Madrazo's Ranch)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Vinewood Hills (Madrazo's Ranch)</h2><p><a href='https://content.rockstarnews.ru/up/images/05217a8f50e6305d692cff973d9fbb93.jpg' class='glightbox' data-gallery='image-11' data-title='Vinewood Hills (Madrazo's Ranch)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5338.5,
@@ -287,7 +287,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/9a2c2e64da4cf6482a49145eede25318.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Tataviam Mt. (Ammu-Nation)</h2><p><a href='https://content.rockstarnews.ru/up/images/9a2c2e64da4cf6482a49145eede25318.jpg' data-lightbox='image-11' data-title='Tataviam Mt. (Ammu-Nation)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Tataviam Mt. (Ammu-Nation)</h2><p><a href='https://content.rockstarnews.ru/up/images/9a2c2e64da4cf6482a49145eede25318.jpg' class='glightbox' data-gallery='image-11' data-title='Tataviam Mt. (Ammu-Nation)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5158,
@@ -297,7 +297,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/0ace054e882228ee8349ba375b70cdd8.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Vinewood Hills (Behind a yellow house in Vinewood Hills on Didion Drive)</h2><p><a href='https://content.rockstarnews.ru/up/images/0ace054e882228ee8349ba375b70cdd8.png' data-lightbox='image-11' data-title='Vinewood Hills (Behind a yellow house in Vinewood Hills on Didion Drive)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Vinewood Hills (Behind a yellow house in Vinewood Hills on Didion Drive)</h2><p><a href='https://content.rockstarnews.ru/up/images/0ace054e882228ee8349ba375b70cdd8.png' class='glightbox' data-gallery='image-11' data-title='Vinewood Hills (Behind a yellow house in Vinewood Hills on Didion Drive)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5296,
@@ -307,7 +307,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/196e37802dac2ed407dd598313b07ddb.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>West Vinewood (Gentry Manor Hotel)</h2><p><a href='https://content.rockstarnews.ru/up/images/196e37802dac2ed407dd598313b07ddb.jpg' data-lightbox='image-11' data-title='West Vinewood (Gentry Manor Hotel)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>West Vinewood (Gentry Manor Hotel)</h2><p><a href='https://content.rockstarnews.ru/up/images/196e37802dac2ed407dd598313b07ddb.jpg' class='glightbox' data-gallery='image-11' data-title='West Vinewood (Gentry Manor Hotel)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5389,
@@ -317,7 +317,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/765975dfe817ad4a426f77d18f979f38.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Pacific Standard Bank</h2><p><a href='https://content.rockstarnews.ru/up/images/765975dfe817ad4a426f77d18f979f38.jpg' data-lightbox='image-11' data-title='Pacific Standard Bank'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Pacific Standard Bank</h2><p><a href='https://content.rockstarnews.ru/up/images/765975dfe817ad4a426f77d18f979f38.jpg' class='glightbox' data-gallery='image-11' data-title='Pacific Standard Bank'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5650.75,
@@ -327,7 +327,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d183e455541e489e5f34368e29dd846b.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Hawick (Auto Exotic garage)</h2><p><a href='https://content.rockstarnews.ru/up/images/d183e455541e489e5f34368e29dd846b.jpg' data-lightbox='image-11' data-title='Hawick (Auto Exotic garage)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Hawick (Auto Exotic garage)</h2><p><a href='https://content.rockstarnews.ru/up/images/d183e455541e489e5f34368e29dd846b.jpg' class='glightbox' data-gallery='image-11' data-title='Hawick (Auto Exotic garage)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5741.5,
@@ -337,7 +337,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/f4ad0cd8db86e59853b96b723e66b131.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Mirror Park (Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/f4ad0cd8db86e59853b96b723e66b131.jpg' data-lightbox='image-11' data-title='Mirror Park (Convenience Store)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Mirror Park (Convenience Store)</h2><p><a href='https://content.rockstarnews.ru/up/images/f4ad0cd8db86e59853b96b723e66b131.jpg' class='glightbox' data-gallery='image-11' data-title='Mirror Park (Convenience Store)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5724,
@@ -347,7 +347,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/96b1c5a0ebff3bf18e6b6ac1d2696169.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Ponsonbys (Burton)</h2><p><a href='https://content.rockstarnews.ru/up/images/96b1c5a0ebff3bf18e6b6ac1d2696169.jpg' data-lightbox='image-11' data-title='Ponsonbys (Burton)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Ponsonbys (Burton)</h2><p><a href='https://content.rockstarnews.ru/up/images/96b1c5a0ebff3bf18e6b6ac1d2696169.jpg' class='glightbox' data-gallery='image-11' data-title='Ponsonbys (Burton)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5463,
@@ -357,7 +357,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/aec2fcd7e487d35cbe5c5d15ebc82682.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Rockford Hills (Mansion at the end of Steele Way)</h2><p><a href='https://content.rockstarnews.ru/up/images/aec2fcd7e487d35cbe5c5d15ebc82682.jpg' data-lightbox='image-11' data-title='Rockford Hills (Mansion at the end of Steele Way)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Rockford Hills (Mansion at the end of Steele Way)</h2><p><a href='https://content.rockstarnews.ru/up/images/aec2fcd7e487d35cbe5c5d15ebc82682.jpg' class='glightbox' data-gallery='image-11' data-title='Rockford Hills (Mansion at the end of Steele Way)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5682.5,
@@ -367,7 +367,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/bda0aefd7d9624ebf4d88dce6eae5f30.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Rockford Hills (Building across from Life Invader)</h2><p><a href='https://content.rockstarnews.ru/up/images/bda0aefd7d9624ebf4d88dce6eae5f30.jpg' data-lightbox='image-11' data-title='Rockford Hills (Building across from Life Invader)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Rockford Hills (Building across from Life Invader)</h2><p><a href='https://content.rockstarnews.ru/up/images/bda0aefd7d9624ebf4d88dce6eae5f30.jpg' class='glightbox' data-gallery='image-11' data-title='Rockford Hills (Building across from Life Invader)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5601,
@@ -377,7 +377,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/b1e4025b64ec61a86f00938b805e4aec.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Richman (Backyard of mansion at intersection of West Eclipse and Tongva Drive)</h2><p><a href='https://content.rockstarnews.ru/up/images/b1e4025b64ec61a86f00938b805e4aec.png' data-lightbox='image-11' data-title='Richman (Backyard of mansion at intersection of West Eclipse and Tongva Drive)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Richman (Backyard of mansion at intersection of West Eclipse and Tongva Drive)</h2><p><a href='https://content.rockstarnews.ru/up/images/b1e4025b64ec61a86f00938b805e4aec.png' class='glightbox' data-gallery='image-11' data-title='Richman (Backyard of mansion at intersection of West Eclipse and Tongva Drive)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5875,
@@ -387,7 +387,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/68c7b2432530c612d8bd121a4c2e26af.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Richards Majestic (Movie Studio)</h2><p><a href='https://content.rockstarnews.ru/up/images/68c7b2432530c612d8bd121a4c2e26af.png' data-lightbox='image-11' data-title='Richards Majestic (Movie Studio)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Richards Majestic (Movie Studio)</h2><p><a href='https://content.rockstarnews.ru/up/images/68c7b2432530c612d8bd121a4c2e26af.png' class='glightbox' data-gallery='image-11' data-title='Richards Majestic (Movie Studio)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6336.25,
@@ -397,7 +397,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/4e2d58a8a39458014d4647e519887eaf.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Del Perro Beach (End of the pier)</h2><p><a href='https://content.rockstarnews.ru/up/images/4e2d58a8a39458014d4647e519887eaf.png' data-lightbox='image-11' data-title='Del Perro Beach (End of the pier)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Del Perro Beach (End of the pier)</h2><p><a href='https://content.rockstarnews.ru/up/images/4e2d58a8a39458014d4647e519887eaf.png' class='glightbox' data-gallery='image-11' data-title='Del Perro Beach (End of the pier)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6271,
@@ -407,7 +407,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/c67cb451c21becfcf7c57e33d8562090.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Vespucci Canals (Barber Shop)</h2><p><a href='https://content.rockstarnews.ru/up/images/c67cb451c21becfcf7c57e33d8562090.jpg' data-lightbox='image-11' data-title='Vespucci Canals (Barber Shop)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Vespucci Canals (Barber Shop)</h2><p><a href='https://content.rockstarnews.ru/up/images/c67cb451c21becfcf7c57e33d8562090.jpg' class='glightbox' data-gallery='image-11' data-title='Vespucci Canals (Barber Shop)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6557.5,
@@ -417,7 +417,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/c643ea35c09162d9635278c45e3fb67b.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Vespucci Beach (Musclehead Gym)</h2><p><a href='https://content.rockstarnews.ru/up/images/c643ea35c09162d9635278c45e3fb67b.png' data-lightbox='image-11' data-title='Vespucci Beach (Musclehead Gym)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Vespucci Beach (Musclehead Gym)</h2><p><a href='https://content.rockstarnews.ru/up/images/c643ea35c09162d9635278c45e3fb67b.png' class='glightbox' data-gallery='image-11' data-title='Vespucci Beach (Musclehead Gym)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6377,
@@ -427,7 +427,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d3b7a8f62abe58fabd61a19cd87dab97.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Little Seoul (Tram station near Heli Tours)</h2><p><a href='https://content.rockstarnews.ru/up/images/d3b7a8f62abe58fabd61a19cd87dab97.jpg' data-lightbox='image-11' data-title='Little Seoul (Tram station near Heli Tours)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Little Seoul (Tram station near Heli Tours)</h2><p><a href='https://content.rockstarnews.ru/up/images/d3b7a8f62abe58fabd61a19cd87dab97.jpg' class='glightbox' data-gallery='image-11' data-title='Little Seoul (Tram station near Heli Tours)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6263,
@@ -437,7 +437,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/5fdc4701721cc68dcf1fe9f25b022e5f.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Ammu-nation with shooting range (Pillbox Hill)</h2><p><a href='https://content.rockstarnews.ru/up/images/5fdc4701721cc68dcf1fe9f25b022e5f.jpg' data-lightbox='image-11' data-title='Ammu-nation with shooting range (Pillbox Hill)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Ammu-nation with shooting range (Pillbox Hill)</h2><p><a href='https://content.rockstarnews.ru/up/images/5fdc4701721cc68dcf1fe9f25b022e5f.jpg' class='glightbox' data-gallery='image-11' data-title='Ammu-nation with shooting range (Pillbox Hill)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6381.25,
@@ -447,7 +447,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/0442e218eefdd63864a816b914930d24.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Vanilla Unicorn</h2><p><a href='https://content.rockstarnews.ru/up/images/0442e218eefdd63864a816b914930d24.jpg' data-lightbox='image-11' data-title='Vanilla Unicorn'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Vanilla Unicorn</h2><p><a href='https://content.rockstarnews.ru/up/images/0442e218eefdd63864a816b914930d24.jpg' class='glightbox' data-gallery='image-11' data-title='Vanilla Unicorn'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6613,
@@ -457,7 +457,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d42aba2c28b4cb1fd4c5f7e4002b70de.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Davis Fire Department on Macdonald Street</h2><p><a href='https://content.rockstarnews.ru/up/images/d42aba2c28b4cb1fd4c5f7e4002b70de.png' data-lightbox='image-11' data-title='Davis Fire Department on Macdonald Street'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Davis Fire Department on Macdonald Street</h2><p><a href='https://content.rockstarnews.ru/up/images/d42aba2c28b4cb1fd4c5f7e4002b70de.png' class='glightbox' data-gallery='image-11' data-title='Davis Fire Department on Macdonald Street'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6856,
@@ -467,7 +467,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/ed64f6446b9a8a4fde7932b1d54585fa.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Davis (Maze Bank Arena parking lot)</h2><p><a href='https://content.rockstarnews.ru/up/images/ed64f6446b9a8a4fde7932b1d54585fa.jpg' data-lightbox='image-11' data-title='Davis (Maze Bank Arena parking lot)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Davis (Maze Bank Arena parking lot)</h2><p><a href='https://content.rockstarnews.ru/up/images/ed64f6446b9a8a4fde7932b1d54585fa.jpg' class='glightbox' data-gallery='image-11' data-title='Davis (Maze Bank Arena parking lot)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -7339,
@@ -477,7 +477,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/d885f0751ccef4a4d3015f362427cb9a.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>LS Intl. Airport (First floor front entrance of LSIA)</h2><p><a href='https://content.rockstarnews.ru/up/images/d885f0751ccef4a4d3015f362427cb9a.jpg' data-lightbox='image-11' data-title='LS Intl. Airport (First floor front entrance of LSIA)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>LS Intl. Airport (First floor front entrance of LSIA)</h2><p><a href='https://content.rockstarnews.ru/up/images/d885f0751ccef4a4d3015f362427cb9a.jpg' class='glightbox' data-gallery='image-11' data-title='LS Intl. Airport (First floor front entrance of LSIA)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6178,
@@ -487,7 +487,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/755bbec3f4e58f30d7f1de57da5c4004.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Rob’s Liquor (Murrieta Heights)</h2><p><a href='https://content.rockstarnews.ru/up/images/755bbec3f4e58f30d7f1de57da5c4004.jpg' data-lightbox='image-11' data-title='Robs Liquor (Murrieta Heights)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Rob’s Liquor (Murrieta Heights)</h2><p><a href='https://content.rockstarnews.ru/up/images/755bbec3f4e58f30d7f1de57da5c4004.jpg' class='glightbox' data-gallery='image-11' data-title='Robs Liquor (Murrieta Heights)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6619.5,
@@ -497,7 +497,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/0bb0aad07706d7bada4f881d9a3b387e.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>El Burro Heights (Tattoo Parlor)</h2><p><a href='https://content.rockstarnews.ru/up/images/0bb0aad07706d7bada4f881d9a3b387e.jpg' data-lightbox='image-11' data-title='El Burro Heights (Tattoo Parlor)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>El Burro Heights (Tattoo Parlor)</h2><p><a href='https://content.rockstarnews.ru/up/images/0bb0aad07706d7bada4f881d9a3b387e.jpg' class='glightbox' data-gallery='image-11' data-title='El Burro Heights (Tattoo Parlor)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6717,
@@ -507,7 +507,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/57bb237c11b556f1d09b5fe48aef2e09.png",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>La Mesa (Behind cheap vehicle warehouse)</h2><p><a href='https://content.rockstarnews.ru/up/images/57bb237c11b556f1d09b5fe48aef2e09.png' data-lightbox='image-11' data-title='La Mesa (Behind cheap vehicle warehouse)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>La Mesa (Behind cheap vehicle warehouse)</h2><p><a href='https://content.rockstarnews.ru/up/images/57bb237c11b556f1d09b5fe48aef2e09.png' class='glightbox' data-gallery='image-11' data-title='La Mesa (Behind cheap vehicle warehouse)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -6946,
@@ -517,7 +517,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/1088c4e0602025b1b1fed1b8f51b0fcb.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Ammu-nation with shooting range (Cypress Flats)</h2><p><a href='https://content.rockstarnews.ru/up/images/1088c4e0602025b1b1fed1b8f51b0fcb.jpg' data-lightbox='image-11' data-title='Ammu-nation with shooting range (Cypress Flats)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Ammu-nation with shooting range (Cypress Flats)</h2><p><a href='https://content.rockstarnews.ru/up/images/1088c4e0602025b1b1fed1b8f51b0fcb.jpg' class='glightbox' data-gallery='image-11' data-title='Ammu-nation with shooting range (Cypress Flats)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -7501.5,
@@ -527,7 +527,7 @@
     "image_url": "https://content.rockstarnews.ru/up/images/51b8ea8b3ee82b853d6c23394f2a69ed.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Terminal (Jetsam Terminal Building)</h2><p><a href='https://content.rockstarnews.ru/up/images/51b8ea8b3ee82b853d6c23394f2a69ed.jpg' data-lightbox='image-11' data-title='Terminal (Jetsam Terminal Building)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Terminal (Jetsam Terminal Building)</h2><p><a href='https://content.rockstarnews.ru/up/images/51b8ea8b3ee82b853d6c23394f2a69ed.jpg' class='glightbox' data-gallery='image-11' data-title='Terminal (Jetsam Terminal Building)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   },
   {
     "lat": -5963,
@@ -537,6 +537,6 @@
     "image_url": "https://content.rockstarnews.ru/up/images/c23af6414f51829305492271523aff12.jpg",
     "lightbox_group": "image-11",
     "copy_url": "https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500",
-    "popupHtml": "<h2>Pillbox Hill (Between FBI & IAA)</h2><p><a href='https://content.rockstarnews.ru/up/images/c23af6414f51829305492271523aff12.jpg' data-lightbox='image-11' data-title='Pillbox Hill (Between FBI & IAA)'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
+    "popupHtml": "<h2>Pillbox Hill (Between FBI & IAA)</h2><p><a href='https://content.rockstarnews.ru/up/images/c23af6414f51829305492271523aff12.jpg' class='glightbox' data-gallery='image-11' data-title='Pillbox Hill (Between FBI & IAA)'>Open In-Game Screenshot</a></p><div class='flex mb-3'><input type='text' class='flex-1 border border-gray-300 rounded-l px-2 py-1 text-xs focus:outline-none' id='copy' value='https://gtavmap.rockstarhub.ru/#5/-1140.750/3857.500'><div class='flex'><button class='bg-gray-100 hover:bg-gray-200 border border-gray-300 border-l-0 rounded-r px-3 py-1 text-xs transition-colors copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>"
   }
 ]

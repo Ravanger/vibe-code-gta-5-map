@@ -21,9 +21,8 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 - **[Vite](https://vitejs.dev/):** Next-generation frontend tooling for fast development and optimized builds.
 
 ### UI & Utilities
-- **[Bootstrap 5](https://getbootstrap.com/):** For responsive UI components.
-- **[jQuery](https://jquery.com/):** Supporting legacy interactions and plugins.
-- **[Lightbox2](https://lokeshdhakar.com/projects/lightbox2/):** For elegant image overlays.
+- **[Tailwind CSS](https://tailwindcss.com/):** For utility-first responsive styling.
+- **[GLightbox](https://biati-digital.github.io/glightbox/):** Modern, dependency-free lightbox for image overlays.
 - **[ClipboardJS](https://clipboardjs.com/):** For easy coordinate link sharing.
 
 ### Testing
@@ -57,7 +56,7 @@ npm run build
 
 ### Running Tests
 - **Unit Tests:** `npm test`
-- **E2E Tests:** `npm run test:e2e` (Always use `--reporter=line` if running manually to prevent shell freezes).
+- **E2E Tests:** `npm run test:e2e`
 
 ## 📂 Data Structure
 
@@ -75,6 +74,7 @@ To add a new category:
 ## 📜 Credits
 
 - **Original Author:** Created by [Kirill Krasin (Mo45)](https://github.com/Mo45). Original concept and data provided by [RockstarHub.ru](https://rockstarhub.ru).
+- **Original Repository:** [Mo45/gta5-player-cards-map](https://github.com/Mo45/gta5-player-cards-map)
 - **Modernization & Refactor:** This project was extensively refactored, migrated to TypeScript, and modernized with the assistance of **Google Gemini**.
 
 ---

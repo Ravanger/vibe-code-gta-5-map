@@ -1,7 +1,10 @@
 {
-  "name": "my-map-project",
+  "name": "gta-5-collectibles-map",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A modern, high-performance interactive map for Grand Theft Auto V collectibles, locations, and points of interest.",
+  "author": "Kirill Krasin (Mo45), Ravanger & Google Gemini",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,22 +15,22 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.58.2",
-    "@types/bootstrap": "^5.2.10",
+    "@tailwindcss/postcss": "^4.2.1",
     "@types/clipboard": "^2.0.1",
-    "@types/jquery": "^4.0.0",
     "@types/leaflet": "^1.9.21",
     "@vitest/ui": "^4.0.18",
+    "autoprefixer": "^10.4.27",
     "jsdom": "^28.1.0",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1",
     "typescript": "~5.9.3",
     "vite": "^7.3.1",
     "vitest": "^4.0.18"
   },
   "dependencies": {
-    "bootstrap": "^5.3.8",
     "clipboard": "^2.0.11",
-    "jquery": "^4.0.0",
+    "glightbox": "^3.3.1",
     "leaflet": "^1.9.4",
-    "leaflet-hash": "^0.2.1",
-    "lightbox2": "^2.12.0"
+    "leaflet-hash": "^0.2.1"
   }
 }

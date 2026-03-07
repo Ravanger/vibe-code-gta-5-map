@@ -1,8 +1,7 @@
 import L from 'leaflet';
-import 'bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import 'leaflet/dist/leaflet.css';
-import 'lightbox2/dist/css/lightbox.min.css';
+import 'glightbox/dist/css/glightbox.min.css';
+import './css/style.css';
 import './css/L.Control.MousePosition.css';
 
 // Import local plugins
@@ -10,17 +9,11 @@ import './js/L.Control.MousePosition';
 import './js/leaflet-hash';
 
 import ClipboardJS from 'clipboard';
-import $ from 'jquery';
-// @ts-ignore
-import 'lightbox2';
+import GLightbox from 'glightbox';
 
 import { createCrs, getMapBounds, type MapConfig } from './utils/mapUtils';
 import { MarkerManager } from './utils/MarkerManager';
 import { categories } from './data/categories';
-
-// Set up jQuery globally for Lightbox2
-(window as any).jQuery = $;
-(window as any).$ = $;
 
 const config: MapConfig = {
   mapExtent: [0, -8192, 8192, 0],
@@ -73,4 +66,17 @@ if (mapElement) {
 
   // Initialize Clipboard
   new ClipboardJS('.copy');
+
+  // Initialize GLightbox
+  const lightbox = GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: true,
+    autoplayVideos: true
+  });
+
+  // Refresh GLightbox whenever a popup is opened
+  map.on('popupopen', () => {
+    lightbox.reload();
+  });
 }
