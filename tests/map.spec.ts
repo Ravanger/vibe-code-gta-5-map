@@ -75,12 +75,58 @@ test('copy button in popup works', async ({ page }) => {
   const classes = await copyButton.getAttribute('class');
   expect(classes).toContain('bg-gray-700/50');
   expect(classes).toContain('transition-colors');
+
+  // Verify aria-label is set for accessibility (added by popupopen handler)
+  const ariaLabel = await copyButton.getAttribute('aria-label');
+  expect(ariaLabel).toBe('Copy location coordinates');
   
   // Playwright can't directly check the clipboard contents easily,
   // but we can check if it triggers the copy event.
   // For now, we just ensure the button is clickable.
   await copyButton.click();
 });
+
+
+test('copy button shows "Copied!" feedback after click', async ({ page, browserName }) => {
+  await page.waitForSelector('.leaflet-marker-icon');
+
+  // Only grant clipboard permissions on chromium (Firefox/WebKit don't support these permission strings)
+  if (browserName === 'chromium') {
+    await page.context().grantPermissions(['clipboard-read', 'clipboard-write']);
+  }
+
+  await page.evaluate(() => {
+    // @ts-ignore
+    const map = window.map;
+    if (map) {
+      map.setView([-7490.11, 4282.91], 5);
+    }
+  });
+
+  await page.waitForTimeout(500);
+
+  const box = await page.locator('#map').boundingBox();
+  if (box) {
+    await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2 - 15);
+  }
+
+  const copyButton = page.locator('button.copy').first();
+  await expect(copyButton).toBeVisible();
+
+  // Simulate the success event via ClipboardJS by clicking (on chromium where clipboard is granted)
+  // On other browsers, we verify the button is present and aria-label is set
+  if (browserName === 'chromium') {
+    await copyButton.click();
+
+    // Verify the "Copied!" feedback text appears
+    await expect(copyButton.locator('span')).toContainText('Copied!');
+
+    // Verify aria-label is updated to reflect success
+    const successLabel = await copyButton.getAttribute('aria-label');
+    expect(successLabel).toContain('Copied');
+  }
+});
+
 
 test('opening glightbox works', async ({ page }) => {
   await page.waitForSelector('.leaflet-marker-icon');

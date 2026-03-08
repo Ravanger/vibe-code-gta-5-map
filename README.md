@@ -5,56 +5,75 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 ## 🚀 Features
 
 - **Custom Coordinate System:** Accurately maps pixel coordinates to the GTA V in-game grid using a custom Leaflet CRS.
-- **Marker Categories & Filtering:** Support for multiple collectible categories (e.g., Playing Cards, Ammu-Nation) with a built-in Leaflet Layer Control for easy toggling.
+- **Marker Categories & Filtering:** Advanced, searchable sidebar for toggling collectible categories with group-level show/hide controls.
 - **Extensible Data Pattern:** Easily add new categories by creating a JSON file in `src/data/categories/` and registering it in `src/data/categories.ts`.
 - **Deep Linking:** URL hash integration via `leaflet-hash` for easy sharing of specific map locations.
 - **Coordinate Tracking:** Real-time in-game coordinate display via a custom MousePosition control.
-- **Image Previews:** Integrated Lightbox2 for viewing in-game screenshots of collectible locations.
-- **Modern Tooling:** Migrated from legacy JS/HTML to **Vite** and **TypeScript** for better developer experience and performance.
+- **Image Previews:** Integrated **GLightbox** for viewing in-game screenshots of collectible locations.
+- **Modern UI:** Custom glassmorphism sidebar, smooth animations, and optimized layout.
 - **Automated Testing:** Comprehensive suite including unit tests (Vitest) and End-to-End tests (Playwright).
 
 ## 🛠️ Tech Stack
 
+
 ### Core
+
 - **[Leaflet](https://leafletjs.com/):** The leading open-source JavaScript library for mobile-friendly interactive maps.
 - **[TypeScript](https://www.typescriptlang.org/):** Adds static typing to ensure code reliability and maintainability.
 - **[Vite](https://vitejs.dev/):** Next-generation frontend tooling for fast development and optimized builds.
 
+
 ### UI & Utilities
+
 - **[Tailwind CSS](https://tailwindcss.com/):** For utility-first responsive styling.
 - **[GLightbox](https://biati-digital.github.io/glightbox/):** Modern, dependency-free lightbox for image overlays.
 - **[ClipboardJS](https://clipboardjs.com/):** For easy coordinate link sharing.
 
+
 ### Testing
+
 - **[Vitest](https://vitest.dev/):** Fast unit testing framework.
 - **[Playwright](https://playwright.dev/):** Reliable end-to-end testing for modern web apps.
 
 ## 💻 Getting Started
 
+
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/) (Latest LTS recommended)
 - npm (comes with Node.js)
 
+
 ### Installation
+
 1. Clone the repository
 2. Install dependencies:
+
    ```bash
    npm install
    ```
 
+
 ### Development
+
 Start the development server with Hot Module Replacement (HMR):
+
 ```bash
 npm run dev
 ```
 
+
 ### Building for Production
+
 Create an optimized production build in the `dist/` folder:
+
 ```bash
 npm run build
 ```
 
+
 ### Running Tests
+
 - **Unit Tests:** `npm test`
 - **E2E Tests:** `npm run test:e2e`
 
@@ -71,16 +90,17 @@ The project now uses a categorized data structure in `src/data/`. To manage the 
 
 ## 🗺️ Roadmap
 
-- [x] **Filter System:** Integrated Leaflet Layer Control for toggling specific collectible categories.
+- [x] **Filter System:** Custom sidebar with searchable categories and group-level toggling.
 - [x] **Data Expansion:** Automated processing for all 67+ categories including Letter Scraps, Spaceship Parts, etc.
-- [ ] **UI/UX Improvements:** Enhance the map interface with modern aesthetics, smooth animations, and a more intuitive filtering experience.
-- [ ] **User Progress Tracking:** LocalStorage or Account-based progress saving for collected items.
+- [x] **UI/UX Overhaul:** Modernized map interface with glassmorphism aesthetics, group-based filtering, and visual stability improvements.
+- [ ] **User Progress Tracking:** LocalStorage or Account-based progress saving for collected items. (Next Priority)
 
 ## 📜 Credits
 
-- **Original Author:** Created by [Kirill Krasin (Mo45)](https://github.com/Mo45). Original concept and data provided by [RockstarHub.ru](https://rockstarhub.ru).
+- **Original Data:** Special thanks to **[gta-5-map.com](https://gta-5-map.com/)** for providing extensive locations data utilized in this project.
+- **Original Author:** Created by [Kirill Krasin (Mo45)](https://github.com/Mo45). Original concept provided by [RockstarHub.ru](https://rockstarhub.ru).
 - **Original Repository:** [Mo45/gta5-player-cards-map](https://github.com/Mo45/gta5-player-cards-map)
-- **Modernization & Refactor:** This project was extensively refactored, migrated to TypeScript, and modernized with the assistance of **Google Gemini**.
+- **Modernization:** Refactored to TypeScript, migrated to Vite, and modernized with assistance from **Google Gemini**.
 
 ---
 

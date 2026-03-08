@@ -23,8 +23,10 @@
 ## Codebase Structure
 - `src/main.ts`: Entry point, map initialization.
 - `src/utils/mapUtils.ts`: CRS and bounds logic.
-- `src/js/`: Custom Leaflet plugins.
-- `src/data/`: Static data (markers).
+- `src/utils/MarkerManager.ts`: Handles marker creation and layer management.
+- `src/utils/LayerSidebar.ts`: Custom sidebar UI for category filtering.
+- `src/js/`: Custom Leaflet plugins (mouse position, hash).
+- `src/data/`: Static data (markers categorized).
 - `public/images/`: Map tiles and marker icons.
   - Tiles are organized by zoom level: `/images/{z}/{x}/{y}.png`.
   - Markers are in `/images/markers/marker_{id}.png`.

@@ -15,10 +15,10 @@ Create a script (e.g., `convert_category.cjs`) to extract a specific category an
 
 ```javascript
 const fs = require('fs');
-const { geographicToApp } = require('./map_converter.cjs');
+const { geographicToApp } = require('../src/utils/map_converter.cjs');
 
 // Load the dump
-const dump = JSON.parse(fs.readFileSync('./gta-v-locations.json', 'utf8'));
+const dump = JSON.parse(fs.readFileSync('../data/gta-v-locations.json', 'utf8'));
 
 // Choose a category (e.g., "Locations" -> "Ammu-Nation")
 const sourceMarkers = dump["Locations"]["Ammu-Nation"];
@@ -40,7 +40,7 @@ const convertedMarkers = sourceMarkers.map(m => {
 
 // Save to the app's data directory
 fs.writeFileSync(
-    './src/data/categories/ammu_nation.json', 
+    '../src/data/categories/locations/ammu_nation.json', 
     JSON.stringify(convertedMarkers, null, 2)
 );
 
