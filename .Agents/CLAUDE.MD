@@ -3,17 +3,19 @@
 ## Development Workflow
 
 ### Commands
+
 - **Install Dependencies:** `npm install`
 - **Run Dev Server:** `npm run dev` (Vite)
 - **Build Project:** `npm run build`
 - **Run Unit Tests:** `npm test` (Vitest)
-- **Run E2E Tests:** `npm run test:e2e` (Playwright). Use `--reporter=line` to prevent shell freezes.
+- **Run E2E Tests:** `npm run test:e2e`. Use `--reporter=line` to prevent shell freezes.
 - **Preview Build:** `npm run preview`
 
 ### Tests & Documentation Mandatory
+
 - **Always Pass:** All changes MUST pass `npm test`, `npm run test:e2e`, and `npm run build` before completion.
 - **Successful Build:** The project must always be buildable with no TypeScript errors or Vite errors.
-- **Coverage:** 
+- **Coverage:**
   - New utilities or logic must have unit tests in `src/utils/` or `src/data/`.
   - New UI components or interactions must have E2E tests in `tests/`.
   - Fixes for bugs must include a regression test.
@@ -21,18 +23,21 @@
 - **Verification:** Run `npm run test:e2e` after any map or interaction change to ensure markers and popups still function correctly.
 
 ## Codebase Structure
-- `src/main.ts`: Entry point, map initialization.
+
+- `src/main.tsx`: React entry point.
+- `src/App.tsx`: Main App component.
+- `src/components/Map/`: Leaflet components (GTA5Map, CategoryLayer, MarkerPopup).
+- `src/components/Sidebar/`: Sidebar UI components.
+- `src/store/useProgressStore.ts`: Centralized Zustand store for all state.
 - `src/utils/mapUtils.ts`: CRS and bounds logic.
-- `src/utils/MarkerManager.ts`: Handles marker creation, layer management, and optional visual styling for collected markers.
-- `src/utils/LayerSidebar.ts`: Custom sidebar UI for category filtering and per-category progress display.
-- `src/utils/UserProgressStore.ts`: User progress tracking for collectibles, with a pluggable backend interface.
-- `src/utils/storage.ts`: Central storage abstraction using `store.js` for robust cross-browser persistence.
-- `src/js/`: Custom Leaflet plugins (mouse position, hash).
+- `src/js/`: Custom Leaflet plugins (MousePosition, Hash).
+- `src/data/`: Static marker and category JSON data.
 - `src/data/`: Static data (markers categorized).
 - `public/images/`: Map tiles and marker icons.
   - Tiles are organized by zoom level: `/images/{z}/{x}/{y}.png`.
   - Markers are in `/images/markers/marker_{id}.png`.
 
 ## Core Logic: CRS
+
 The project uses a custom Coordinate Reference System (CRS) to map pixel coordinates to the GTA 5 map grid.
 The transformation is defined in `src/utils/mapUtils.ts` and used in `src/main.ts`.

@@ -78,7 +78,7 @@ export const locations: CategoryDefinition[] = [
     iconAnchor: [16, 37],
     markers: ammuNationLocations as MarkerData[],
     visible: true
-  },
+    },
   {
     id: 'atm',
     name: 'ATM',
@@ -87,7 +87,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: atmLocations as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'automotive_shop',
@@ -97,7 +97,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: automotiveShopLocations as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'barber',
@@ -107,7 +107,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: barberLocations as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'clothing',
@@ -117,7 +117,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: clothingLocations as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'convenience_store',
@@ -127,7 +127,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: convenienceStoreLocations as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'food_drink',
@@ -137,7 +137,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: foodDrinkLocations as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'tattoo',
@@ -147,7 +147,7 @@ export const locations: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: tattooLocations as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -160,7 +160,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: dartsActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'flight_school',
@@ -170,7 +170,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: flightSchoolActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'golfing',
@@ -180,7 +180,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: golfingActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'hunting',
@@ -190,7 +190,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: huntingActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'parachuting',
@@ -200,7 +200,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: parachutingActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'races',
@@ -210,7 +210,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: racesActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'shooting',
@@ -220,7 +220,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: shootingActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'tennis',
@@ -230,7 +230,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: tennisActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'triathlon',
@@ -240,7 +240,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: triathlonActivities as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'yoga',
@@ -250,7 +250,7 @@ export const activities: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: yogaActivities as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -263,7 +263,7 @@ export const entertainment: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: cinemaEntertainment as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'strip_club',
@@ -273,7 +273,7 @@ export const entertainment: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: stripClubEntertainment as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -286,7 +286,7 @@ export const services: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: carWashServices as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'fire_station',
@@ -296,7 +296,7 @@ export const services: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: fireStationServices as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'hospital',
@@ -306,7 +306,7 @@ export const services: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: hospitalServices as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'police_station',
@@ -316,7 +316,7 @@ export const services: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: policeStationServices as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -329,7 +329,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: actionFigureCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'epsilon_tract',
@@ -339,7 +339,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: epsilonTractCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'hidden_package',
@@ -349,7 +349,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: hiddenPackageCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'knife_flight',
@@ -359,7 +359,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: knifeFlightCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'letter_scrap',
@@ -369,7 +369,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: letterScrapCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'monkey_mosaic',
@@ -379,7 +379,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: monkeyMosaicCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'nuclear_waste',
@@ -389,7 +389,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: nuclearWasteCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'peyote_plant',
@@ -399,7 +399,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: peyotePlantCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'playing_card',
@@ -419,7 +419,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: spaceshipPartCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'strangers_freaks',
@@ -429,7 +429,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: strangersFreaksCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'stunt_location',
@@ -439,7 +439,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: stuntLocationCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'submarine_part',
@@ -449,7 +449,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: submarinePartCollectibles as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'under_the_bridge',
@@ -459,7 +459,7 @@ export const collectibles: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: underTheBridgeCollectibles as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -472,7 +472,7 @@ export const places: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: buildingPlaces as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'lookout_point',
@@ -482,7 +482,7 @@ export const places: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: lookoutPointPlaces as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'mountain_peak',
@@ -492,7 +492,7 @@ export const places: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: mountainPeakPlaces as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'property',
@@ -502,7 +502,7 @@ export const places: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: propertyPlaces as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -515,7 +515,7 @@ export const items: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: bodyArmorItems as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'health_pack',
@@ -525,7 +525,7 @@ export const items: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: healthPackItems as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'vehicle_spawn',
@@ -535,7 +535,7 @@ export const items: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: vehicleSpawnItems as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'weapon_pickup',
@@ -545,7 +545,7 @@ export const items: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: weaponPickupItems as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -558,7 +558,7 @@ export const quests: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: gangAttackQuests as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'lenny_avery_realty',
@@ -568,7 +568,7 @@ export const quests: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: lennyAveryRealtyQuests as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'mission',
@@ -578,7 +578,7 @@ export const quests: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: missionQuests as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'random_event',
@@ -588,7 +588,7 @@ export const quests: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: randomEventQuests as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -601,7 +601,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: apartmentOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'bunker',
@@ -611,7 +611,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: bunkerOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'business',
@@ -621,7 +621,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: businessOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'clothing_scrap',
@@ -631,7 +631,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: clothingScrapOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'clubhouse',
@@ -641,7 +641,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: clubhouseOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'executive_office',
@@ -651,7 +651,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: executiveOfficeOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'exotic_export',
@@ -661,7 +661,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: exoticExportOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'facility',
@@ -671,7 +671,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: facilityOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'garage',
@@ -681,7 +681,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: garageOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'hanger',
@@ -691,7 +691,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: hangerOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'nightclub',
@@ -701,17 +701,17 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: nightclubOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
-    id: 'peyote_plant',
+    id: 'peyote_plant_online',
     name: 'Peyote Plant',
     group: 'Online',
     iconUrl: (m: MarkerData) => `/images/markers/marker_${m.icon}.png`,
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: peyotePlantOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'signal_jammer',
@@ -721,7 +721,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: signalJammerOnline as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'warehouse',
@@ -731,7 +731,7 @@ export const online: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: warehouseOnline as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -744,7 +744,7 @@ export const mysteries: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: easterEggMysteries as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 
@@ -757,7 +757,7 @@ export const other: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: ldOrganicsProductOther as MarkerData[],
-    visible: false
+    visible: true
   },
   {
     id: 'miscellaneous',
@@ -767,7 +767,7 @@ export const other: CategoryDefinition[] = [
     iconSize: [32, 37],
     iconAnchor: [16, 37],
     markers: miscellaneousOther as MarkerData[],
-    visible: false
+    visible: true
   }
 ];
 

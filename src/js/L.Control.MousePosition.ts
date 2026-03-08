@@ -1,27 +1,28 @@
 // @ts-nocheck
 import L from 'leaflet';
+
 L.Control.MousePosition = L.Control.extend({
   options: {
     position: 'bottomleft',
     separator: ' : ',
-    emptyString: 'Unavailable',
+    emptyString: '0.00000 : 0.00000',
     lngFirst: false,
     numDigits: 5,
     lngFormatter: undefined,
     latFormatter: undefined,
-    prefix: ""
+    prefix: ''
   },
 
   onAdd: function (map) {
     this._container = L.DomUtil.create('div', 'leaflet-control-mouseposition');
     L.DomEvent.disableClickPropagation(this._container);
     map.on('mousemove', this._onMouseMove, this);
-    this._container.innerHTML=this.options.emptyString;
+    this._container.innerHTML = this.options.emptyString;
     return this._container;
   },
 
   onRemove: function (map) {
-    map.off('mousemove', this._onMouseMove)
+    map.off('mousemove', this._onMouseMove);
   },
 
   _onMouseMove: function (e) {
@@ -31,7 +32,6 @@ L.Control.MousePosition = L.Control.extend({
     var prefixAndValue = this.options.prefix + ' ' + value;
     this._container.innerHTML = prefixAndValue;
   }
-
 });
 
 L.Map.mergeOptions({
