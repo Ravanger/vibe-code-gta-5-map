@@ -14,20 +14,18 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 - **Modern UI:** Custom glassmorphism sidebar, smooth animations, and optimized layout.
 - **Automated Testing:** Comprehensive suite including unit tests (Vitest) and End-to-End tests (Playwright).
 
-## 🛠️ Tech Stack
-
-### Core
-
-- **[Leaflet](https://leafletjs.com/):** The leading open-source JavaScript library for mobile-friendly interactive maps.
-- **[TypeScript](https://www.typescriptlang.org/):** Adds static typing to ensure code reliability and maintainability.
-- **[Vite](https://vitejs.dev/):** Next-generation frontend tooling for fast development and optimized builds.
+- **[React](https://react.dev/):** Declarative UI library for high-performance components.
+- **[Zustand](https://zustand-demo.pmnd.rs/):** Minimalistic, scalable state management for MVVM logic.
+- **[Leaflet](https://leafletjs.com/):** Leading open-source library for interactive maps.
+- **[React-Leaflet](https://react-leaflet.js.org/):** React bindings for Leaflet.
+- **[TypeScript](https://www.typescriptlang.org/):** Ensures code reliability and maintainability.
+- **[Vite](https://vitejs.dev/):** Fast development and optimized builds.
 
 ### UI & Utilities
 
 - **[Tailwind CSS](https://tailwindcss.com/):** For utility-first responsive styling.
-- **[GLightbox](https://biati-digital.github.io/glightbox/):** Modern, dependency-free lightbox for image overlays.
+- **[GLightbox](https://biati-digital.github.io/glightbox/):** Modern lightbox for image overlays.
 - **[ClipboardJS](https://clipboardjs.com/):** For easy coordinate link sharing.
-- **[store.js](https://github.com/marcuswestin/store.js):** Cross-browser storage for user progress and preferences.
 
 ### Testing
 

@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test';
 
 test.beforeEach(async ({ page }) => {
   await page.goto('/');
+  await page.waitForSelector('[data-map-loaded="true"]');
 });
 
 test('marking a collectible as collected updates sidebar and persists', async ({ page }) => {
@@ -10,20 +11,14 @@ test('marking a collectible as collected updates sidebar and persists', async ({
   await page.evaluate(() => {
     // @ts-ignore
     const map = window.map;
-    if (map) {
-      map.setView([-7490.11, 4282.91], 5);
-    }
+    if (map) { map.setView([-7490.110423553731, 4282.909974300441], 5); }
   });
 
-  await page.waitForTimeout(500);
+  await page.waitForTimeout(1000);
 
-  const box = await page.locator('#map').boundingBox();
-  if (!box) {
-    test.skip();
-    return;
-  }
-
-  await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2 - 15);
+  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  await expect(marker).toBeVisible();
+  await marker.click({ force: true });
 
   const popup = page.locator('.leaflet-popup-content');
   await expect(popup).toBeVisible();
@@ -39,7 +34,7 @@ test('marking a collectible as collected updates sidebar and persists', async ({
   expect(sidebarCountAfter).not.toEqual(sidebarCountBefore);
 
   await page.reload();
-  await page.waitForSelector('#map');
+  await page.waitForSelector('[data-map-loaded="true"]');
   await page.waitForSelector('[data-progress-category="playing_card"]');
 
   const sidebarCountAfterReload = await page.locator('[data-progress-category="playing_card"]').first().innerText();
@@ -49,53 +44,43 @@ test('marking a collectible as collected updates sidebar and persists', async ({
 test('hiding/showing collected markers via settings', async ({ page }) => {
   await page.waitForSelector('.leaflet-marker-icon');
 
-  // Center on a known marker
   await page.evaluate(() => {
     // @ts-ignore
     const map = window.map;
-    if (map) { map.setView([-7490.11, 4282.91], 5); }
+    if (map) { map.setView([-7490.110423553731, 4282.909974300441], 5); }
   });
-  await page.waitForTimeout(500);
+  await page.waitForTimeout(1000);
 
-  const box = await page.locator('#map').boundingBox();
-  if (!box) return;
+  const marker = page.locator('.leaflet-marker-icon[src*="playing_card"]').first();
+  await expect(marker).toBeVisible();
+  await marker.click({ force: true });
 
-  // Click marker to open popup
-  await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2 - 15);
   const toggle = page.locator('[data-progress-toggle]');
   await expect(toggle).toBeVisible();
   
-  // Mark as collected
   await toggle.click();
   
-  // Close popup by clicking elsewhere
-  await page.mouse.click(box.x + 10, box.y + 10);
+  // Click outside to close popup
+  await page.mouse.click(400, 400);
   await expect(page.locator('.leaflet-popup')).not.toBeVisible();
 
-  // Verify marker is dimmed
   const collectedMarker = page.locator('.marker--collected');
   await expect(collectedMarker).toBeVisible();
 
-  // Click "Hide Found"
   const hideBtn = page.locator('#btn-toggle-collected');
   await expect(hideBtn).toContainText('Hide Found');
   await hideBtn.click();
 
-  // Verify marker is hidden (should not be in the DOM or at least not visible)
-  // Our implementation removes it from the LayerGroup
   await expect(collectedMarker).not.toBeVisible();
   await expect(hideBtn).toContainText('Show Found');
 
-  // Reload to test persistence of setting
   await page.reload();
-  await page.waitForSelector('#map');
+  await page.waitForSelector('[data-map-loaded="true"]');
   
   const hideBtnAfter = page.locator('#btn-toggle-collected');
   await expect(hideBtnAfter).toContainText('Show Found');
   await expect(page.locator('.marker--collected')).not.toBeVisible();
 
-  // Toggle back
   await hideBtnAfter.click();
   await expect(page.locator('.marker--collected')).toBeVisible();
 });
-
