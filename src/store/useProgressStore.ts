@@ -12,6 +12,7 @@ export interface ProgressState {
   expandedGroups: Record<string, boolean>;
   settings: {
     hideFound: boolean;
+    markerSearchQuery: string;
   };
 
   // Actions
@@ -22,6 +23,7 @@ export interface ProgressState {
   setGroupExpanded: (groupId: string, expanded: boolean) => void;
   toggleGroupExpanded: (groupId: string) => void;
   setHideFound: (hide: boolean) => void;
+  setMarkerSearchQuery: (query: string) => void;
   clearCategory: (categoryId: string) => void;
   clearAll: () => void;
   
@@ -39,6 +41,7 @@ export const useProgressStore = create<ProgressState>()(
       expandedGroups: {},
       settings: {
         hideFound: false,
+        markerSearchQuery: '',
       },
 
       setCollected: (categoryId, index, collected) => {
@@ -122,6 +125,16 @@ export const useProgressStore = create<ProgressState>()(
           settings: {
             ...state.settings,
             hideFound: hide,
+          },
+        });
+      },
+
+      setMarkerSearchQuery: (query) => {
+        const state = get();
+        set({
+          settings: {
+            ...state.settings,
+            markerSearchQuery: query,
           },
         });
       },

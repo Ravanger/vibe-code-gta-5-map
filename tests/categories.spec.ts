@@ -33,7 +33,34 @@ test('sidebar search filters categories', async ({ page }) => {
   await expect(playingCard).toBeVisible();
 
   const atm = page.locator('.cat-item').filter({ hasText: 'ATM' });
-  await expect(atm).toHaveCSS('display', 'none');
+  await expect(atm).toBeHidden();
+
+  await search.fill('');
+});
+
+test('advanced search matches marker content', async ({ page }) => {
+  await page.waitForSelector('#sb-search');
+  const search = page.locator('#sb-search');
+  
+  // "motel" is found in the description of a Letter Scrap, but not in any category name
+  await search.fill('motel');
+  await page.waitForTimeout(200);
+
+  // Letter Scrap category should be visible
+  const letterScrap = page.locator('.cat-name').getByText('Letter Scrap');
+  await expect(letterScrap).toBeVisible();
+
+  // ATM category should be hidden
+  const atm = page.locator('.cat-item').filter({ hasText: 'ATM' });
+  await expect(atm).toBeHidden();
+
+  // "Gun Range" is in Ammu-Nation popup
+  await search.fill('Gun Range');
+  await page.waitForTimeout(200);
+  
+  const ammuNation = page.locator('.cat-name').getByText('Ammu-Nation');
+  await expect(ammuNation).toBeVisible();
+  await expect(letterScrap).toBeHidden();
 
   await search.fill('');
 });

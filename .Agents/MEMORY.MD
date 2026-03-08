@@ -41,3 +41,7 @@
   - Refactored tests to avoid parameter properties, satisfying `erasableSyntaxOnly` requirements in newer TypeScript configurations.
 - Streamlined Sidebar UI: Removed redundant category checkboxes (color dots) to expand the name area and focus on the toggle slider.
 - Improved Documentation: Reorganized `README.md` to move technology stack details (React, Zustand, etc.) into a dedicated "Tech Stack" section.
+- Implemented Advanced Search:
+  - Updated Sidebar filtering logic to search within marker titles and popup descriptions (stripping HTML for clean matching).
+  - Modified `GroupSection` to automatically expand categories that contain search matches.
+  - Updated E2E tests to accommodate DOM-based filtering (elements being removed vs hidden).

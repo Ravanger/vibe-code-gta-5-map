@@ -22,14 +22,32 @@ export const CategoryItem: React.FC<Props> = React.memo(({ category, search }) =
 
   const matchesSearch = useMemo(() => {
     if (!search) return true;
-    return category.name.toLowerCase().includes(search.toLowerCase());
-  }, [category.name, search]);
+    const lowerSearch = search.toLowerCase();
+    
+    // 1. Match category name
+    if (category.name.toLowerCase().includes(lowerSearch)) return true;
+    
+    // 2. Match any marker in this category
+    return category.markers.some(m => {
+      // Check title
+      if (m.title && m.title.toLowerCase().includes(lowerSearch)) return true;
+      
+      // Check popupHtml (strip tags first for cleaner matching)
+      if (m.popupHtml) {
+        const textContent = m.popupHtml.replace(/<[^>]*>?/gm, '').toLowerCase();
+        if (textContent.includes(lowerSearch)) return true;
+      }
+      
+      return false;
+    });
+  }, [category.name, category.markers, search]);
+
+  if (!matchesSearch) return null;
 
   return (
     <div 
       className={`cat-item flex items-center gap-2 p-2 rounded-lg cursor-pointer transition-all ${isVisible ? 'cat-item--on bg-white/10' : 'bg-transparent opacity-50 hover:opacity-100'}`}
       onClick={handleToggle}
-      style={{ display: matchesSearch ? 'flex' : 'none' }}
     >
       <span className="cat-name text-white text-xs select-none flex-1">{category.name}</span>
       

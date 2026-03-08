@@ -28,8 +28,11 @@ export const GroupSection: React.FC<Props> = React.memo(({ group, categories, se
   
   const setCategoryVisible = useProgressStore(state => state.setCategoryVisible);
   const visibleCategories = useProgressStore(state => state.visibleCategories);
-  const isExpanded = useProgressStore(state => state.expandedGroups[group] ?? true);
+  const storedExpanded = useProgressStore(state => state.expandedGroups[group] ?? true);
   const toggleGroupExpanded = useProgressStore(state => state.toggleGroupExpanded);
+
+  // If we are searching, we force-expand all groups that have matches
+  const isExpanded = search ? true : storedExpanded;
 
   const allVisible = useMemo(() => {
     return categories.every(c => visibleCategories[c.id] ?? c.visible);

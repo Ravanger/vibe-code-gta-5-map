@@ -6,6 +6,7 @@ A modern, high-performance interactive map for Grand Theft Auto V collectibles, 
 
 - **Custom Coordinate System:** Accurately maps pixel coordinates to the GTA V in-game grid using a custom Leaflet CRS.
 - **Marker Categories & Filtering:** Advanced, searchable sidebar for toggling collectible categories with group-level show/hide controls.
+- **Advanced Search:** Search for categories, marker titles, or specific text within marker descriptions. Matching groups automatically expand to show results.
 - **Extensible Data Pattern:** Easily add new categories by creating a JSON file in `src/data/[group]/` and registering it in `src/data/categories.ts`.
 - **Deep Linking:** URL hash integration via `leaflet-hash` for easy sharing of specific map locations.
 - **Coordinate Tracking:** Real-time in-game coordinate display via a custom MousePosition control.
@@ -88,7 +89,7 @@ The project now uses a categorized data structure in `src/data/`. To manage the 
 - [x] **Data Expansion:** Automated processing for all 67+ categories including Letter Scraps, Spaceship Parts, etc.
 - [x] **UI/UX Overhaul:** Modernized map interface with glassmorphism aesthetics, group-based filtering, and visual stability improvements.
 - [x] **User Progress Tracking:** LocalStorage-based progress saving for collected items, with a pluggable design for future account-based backends.
-- [ ] **Advanced Search:** Expand sidebar search/filter to include marker titles and descriptions in addition to category names.
+- [x] **Advanced Search:** Expand sidebar search/filter to include marker titles and descriptions in addition to category names.
 - [ ] **Icon Refresh:** Audit and update map markers with higher-quality, consistent iconography for better clarity at all zoom levels.
 
 ## 📜 Credits
