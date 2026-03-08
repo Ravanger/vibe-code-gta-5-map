@@ -12,14 +12,34 @@ export const Sidebar: React.FC = () => {
   const hideFound = useProgressStore(state => state.settings.hideFound);
   const setAllCategoriesVisible = useProgressStore(state => state.setAllCategoriesVisible);
 
+  const filteredCategories = useMemo(() => {
+    if (!search) return categories;
+    const lowerSearch = search.toLowerCase();
+
+    return categories.filter(category => {
+      // Match category name
+      if (category.name.toLowerCase().includes(lowerSearch)) return true;
+
+      // Match marker title or popup contents
+      return category.markers.some(m => {
+        if (m.title && m.title.toLowerCase().includes(lowerSearch)) return true;
+        if (m.popupHtml) {
+          const textContent = m.popupHtml.replace(/<[^>]*>?/gm, '').toLowerCase();
+          if (textContent.includes(lowerSearch)) return true;
+        }
+        return false;
+      });
+    });
+  }, [search]);
+
   const groupedCategories = useMemo(() => {
     const map = new Map<CategoryGroup, CategoryDefinition[]>();
-    categories.forEach(c => {
+    filteredCategories.forEach(c => {
       if (!map.has(c.group)) map.set(c.group, []);
       map.get(c.group)!.push(c);
     });
     return map;
-  }, []);
+  }, [filteredCategories]);
 
   const categoryIds = useMemo(() => categories.map(c => c.id), []);
 

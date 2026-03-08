@@ -31,11 +31,15 @@
 - `src/store/useProgressStore.ts`: Centralized Zustand store for all state.
 - `src/utils/mapUtils.ts`: CRS and bounds logic.
 - `src/js/`: Custom Leaflet plugins (MousePosition, Hash).
-- `src/data/`: Static marker and category JSON data.
-- `src/data/`: Static data (markers categorized).
-- `public/images/`: Map tiles and marker icons.
-  - Tiles are organized by zoom level: `/images/{z}/{x}/{y}.png`.
-  - Markers are in `/images/markers/marker_{id}.png`.
+- `src/data/`: Static marker and category JSON data (organized by category group).
+
+### Advanced Search
+The sidebar search filters `categories` by:
+1. Category Name (`name`)
+2. Marker Title (`title`)
+3. Marker Description (`popupHtml` with stripped tags)
+
+Matches in the sidebar trigger automatic group expansion in `GroupSection.tsx` so results are immediately visible.
 
 ## Core Logic: CRS
 

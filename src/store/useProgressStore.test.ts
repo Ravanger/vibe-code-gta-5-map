@@ -7,7 +7,7 @@ describe('useProgressStore', () => {
       collected: {},
       visibleCategories: {},
       expandedGroups: {},
-      settings: { hideFound: false }
+      settings: { hideFound: false, markerSearchQuery: '' }
     });
   });
 
